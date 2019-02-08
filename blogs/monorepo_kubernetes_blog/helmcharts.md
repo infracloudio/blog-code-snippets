@@ -1,5 +1,5 @@
 
-```
+
 ├── README.md
 └── charts
     ├── app-mono-api
@@ -14,4 +14,3 @@
             ├── _helpers.tpl
             ├── deployment.yaml
             └── service.yaml
-```
